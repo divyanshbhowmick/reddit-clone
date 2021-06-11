@@ -1,0 +1,4 @@
+server/node_modules/
+./dump.rdb
+web/node_modules/
+web/.next/
